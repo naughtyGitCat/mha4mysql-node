@@ -278,4 +278,3 @@ See online reference (http://code.google.com/p/mysql-master-ha/wiki/Requirements
 =head1 DESCRIPTION
 
 See online reference (http://code.google.com/p/mysql-master-ha/wiki/Requirements#purge_relay_logs_script) for details.
-
